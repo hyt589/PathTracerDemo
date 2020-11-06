@@ -13,6 +13,7 @@ This public repo is a showcase of a path tracing renderer implemented for a cour
 ![](img/result2.png)
 ![](img/result1.png)
 ![](img/result4.png)
+![](img/result5.png)
 
 # How to Get the Code
 
