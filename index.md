@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Overview
+This public repo is a showcase of a path tracing renderer implemented for a course project.
 
-You can use the [editor on GitHub](https://github.com/hyt589/PathTracerDemo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Features
+- Monte Carlo Path Tracing
+- Pure Diffuse Materials
+- Microfacet Materials
+  - Importance Sampling for glossy reflection
+  - Metallic Workflow for computing metallic color
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Results
+![](img/result3.png)
+![](img/result2.png)
+![](img/result1.png)
+![](img/result4.png)
+![](img/result5.png)
 
-### Markdown
+# How to Get the Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Due to academic integrity policies, I cannot push the project source code to this public repository. However, the source code is available in a private repository, and access may be granted if you contact me through email and provide your Github email for an invite.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyt589/PathTracerDemo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Email: yutong.huang@outlook.com
