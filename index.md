@@ -9,11 +9,11 @@ This public repo is a showcase of a path tracing renderer implemented for a cour
   - Metallic Workflow for computing metallic color
 
 # Results
-![](img/result3.png)
-![](img/result2.png)
-![](img/result1.png)
-![](img/result4.png)
-![](img/result5.png)
+![](https://raw.githubusercontent.com/hyt589/PathTracerDemo/main/img/result3.png)
+![](https://raw.githubusercontent.com/hyt589/PathTracerDemo/main/img/result2.png)
+![](https://raw.githubusercontent.com/hyt589/PathTracerDemo/main/img/result1.png)
+![](https://raw.githubusercontent.com/hyt589/PathTracerDemo/main/img/result4.png)
+![](https://raw.githubusercontent.com/hyt589/PathTracerDemo/main/img/result5.png)
 
 # How to Get the Code
 
